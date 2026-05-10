@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6dyScE9pcQhjNTnAgPmHwBr823V6gkFv4lrSxXhCpCaLeop5Y7XGSQjw+5DSZ5tGlYzalKyrRHWiflWD6L/rPg==",
+  "success": true,
+  "projectFilePath": "C:\\Eeeee\\FAKS (real)\\SISTEMSKO PROGRAMIRANJE\\Projekat 1\\sysprog1\\Zadatak36\\Zadatak36.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WeeDmAsTeR69\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.7\\microsoft.win32.systemevents.10.0.7.nupkg.sha512",
+    "C:\\Users\\WeeDmAsTeR69\\.nuget\\packages\\system.drawing.common\\10.0.7\\system.drawing.common.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
